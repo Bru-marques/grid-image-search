@@ -1,0 +1,11 @@
+.ui.vertical.segment {
+  background-color: #374448;
+}
+.ui.form .field > label {
+  color: #fff;
+  font-size: 2rem;
+  margin-bottom: 2rem;
+}
+.form {
+  margin: 2rem;
+}
